@@ -4,6 +4,7 @@
 	},
 	"devDependencies": {
 		"@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+		"@types/lodash-es": "^4.17.6",
 		"@types/react": "^17.0.40",
 		"@types/react-dom": "^17.0.13",
 		"@typescript-eslint/eslint-plugin": "^5.14.0",
@@ -23,6 +24,7 @@
 		"webpack-plugin-serve": "^1.6.0"
 	},
 	"dependencies": {
+		"lodash-es": "^4.17.21",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2"
 	}
