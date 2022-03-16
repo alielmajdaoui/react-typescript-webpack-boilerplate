@@ -1,6 +1,6 @@
-# TypeScript/React Boilerplate
+# React/TypeScript/Webpack Boilerplate
 
-Just another TypeScript/React/Webpack Boilerplate project for RAPID development.
+Just another React/TypeScript/Webpack Boilerplate project for RAPID development.
 
 ## Usage
 
